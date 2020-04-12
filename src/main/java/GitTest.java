@@ -7,6 +7,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("我就不行连不上!!!");
         System.out.println("hotfix分区！！！");
-        System.out.println("简简单单Push一下!!!");
+        System.out.println("Github修改!!!");
     }
 }
